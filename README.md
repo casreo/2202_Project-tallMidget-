@@ -11,7 +11,6 @@ This is a python program that uses the Volatility Framework to automate the proc
 
 Dependencies
 
-Volatility must be installed and just copy paste the files into the volatility-master directory
-
-Tested with Volatility Framework 2.6
+- Volatility must be installed and just copy paste the files into the volatility-master directory
+- Tested with Volatility Framework 2.6
 
