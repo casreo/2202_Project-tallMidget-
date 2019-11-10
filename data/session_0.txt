@@ -1,0 +1,3 @@
+wininit.exe
+lsass.exe
+lsm.exe
